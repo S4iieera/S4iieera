@@ -5,8 +5,10 @@
 understandable, testable, and useful — and I care about doing the data work honestly,
 including reporting when results are inconclusive.
 
-🔭 Currently building a reproducible **news-sentiment pipeline** (VADER vs FinBERT) for
-short-horizon UK equity-movement analysis as my final-year project.
+🔭 Final-year project (now complete): a reproducible **news-sentiment pipeline** (VADER vs FinBERT)
+for short-horizon UK equity-movement analysis.
+
+✅ Open to graduate software engineering, data, and AI roles in London.
 
 🌐 **Portfolio:** [s4iieera.github.io](https://s4iieera.github.io)
 💼 **LinkedIn:** [sameer-ali-it](https://www.linkedin.com/in/sameer-ali-it/)
